@@ -1,0 +1,20 @@
+**When learning a new language, we first learn to output some message. Here, we'll start with the famous "Hello World" message.**
+
+##Input
+No Input
+
+##Output
+Hello World
+
+##Example
+
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+	public static void main (String[] args) {
+                      System.out.println("Hello World");
+	}
+}
