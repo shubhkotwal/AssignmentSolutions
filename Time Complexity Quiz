@@ -28,4 +28,6 @@ In a competition, four different functions are observed. All the functions use a
 (A) for(i = 0; i < n; i++)
 (B) for(i = 0; i < n; i += 2)
 (C) for(i = 1; i < n; i *= 2)
-(D) 
+(D) for(i = n; i > -1; i /= 2)
+
+If n
