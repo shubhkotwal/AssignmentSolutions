@@ -30,4 +30,11 @@ In a competition, four different functions are observed. All the functions use a
 (C) for(i = 1; i < n; i *= 2)
 (D) for(i = n; i > -1; i /= 2)
 
-If n
+If n is the size of the input (positive), which function is most efficient(if the task to be performed is not an issue)?
+
+Ans: C
+
+----------------------
+
+Question 4 :
+Which of the following doest 
