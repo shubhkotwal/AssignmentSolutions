@@ -37,4 +37,37 @@ Ans: C
 ----------------------
 
 Question 4 :
-Which of the following doest 
+Which of the following does NOT belong to the family of notations?
+
+Ans: Big (⋈)
+
+----------------------
+
+Question 5 :
+Two main measures for the efficiency of an algorithm are:
+
+Ans: Time and space
+
+----------------------
+
+Question 6 :
+Consider the following function:
+
+static int fun1(int n)
+{
+int i, j, k, p, q = 0;
+for (i = 1; i < n; ++i)
+{
+p = 0;
+for (j=n; j>1; j=j/2)
+++p;
+for (k=1; k < p; k =k*2)
+++q;
+}
+return q;
+}
+
+Ans: nlog(logn)
+
+----------------------
+
